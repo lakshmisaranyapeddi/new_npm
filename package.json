@@ -1,0 +1,22 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "this is a new project",
+  "main": "index.js",
+  "scripts": {
+    "test": "project1 -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshmisaranyapeddi/new_npm.git"
+  },
+  "keywords": [
+    "project1"
+  ],
+  "author": "saranya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakshmisaranyapeddi/new_npm/issues"
+  },
+  "homepage": "https://github.com/lakshmisaranyapeddi/new_npm#readme"
+}
